@@ -21,3 +21,9 @@
 number = [1,8,2,4,5,6]
 number.sort()
 print(number)
+
+# 3. Sum a list 
+print(sum(number))
+
+# 4. Count Method 
+print(number.count(2))
